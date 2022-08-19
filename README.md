@@ -4,5 +4,8 @@ An early-2000s Gameboy Pokemon meets Legends of Zelda inspired RPG game where th
 
 Current work in progress. Has a base starting map and sprites made with conrols set up. 
 
-Next step to do:
-Add collisions
+### Next step to do:
+  - Add collisions
+  
+### Known bugs
+  - None
