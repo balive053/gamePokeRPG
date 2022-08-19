@@ -6,6 +6,8 @@ Current work in progress. Has a base starting map and sprites made with conrols 
 
 ### Next step to do:
   - Add collisions
+  - Update sprite
+  - Add more map elements
   
 ### Known bugs
   - None
